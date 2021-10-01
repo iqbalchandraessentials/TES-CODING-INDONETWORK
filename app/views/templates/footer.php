@@ -9,7 +9,10 @@
         $('#table_id').DataTable({
             paging: false,
             searching: false,
-            ordering: false,
+            // ordering: false,
+            "order": [
+                [1, "desc"]
+            ],
         });
     });
 </script>
