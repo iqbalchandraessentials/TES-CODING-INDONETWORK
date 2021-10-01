@@ -2,7 +2,7 @@
     <h1>Membership</h1>
 
     <div class="table-resposive">
-        <table class="table" style="width: 80%;">
+        <table class="table" id="table_id" style="width: 80%;">
             <thead>
                 <tr>
                     <th>name</th>
