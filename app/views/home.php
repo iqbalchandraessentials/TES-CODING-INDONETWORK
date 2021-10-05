@@ -1,6 +1,10 @@
 <div class="container">
     <h1>Membership</h1>
 
+
+    <img src="<?php BASEURL; ?>/img/satu.png" width="200" alt="">
+
+
     <div class="table-resposive">
         <table class="table" id="table_id" style="width: 80%;">
             <thead>
